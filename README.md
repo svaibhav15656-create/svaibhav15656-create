@@ -44,10 +44,12 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [Smart Attendance System]([https://github.com/svaibhav15656-create](https://github.com/svaibhav15656-create/ai-decision-copilot.git)) | Anti-proxy attendance with face recognition & JWT auth | Java, face-api.js, REST API |
-| [PR Review Time Predictor](https://github.com/svaibhav15656-create) | Predicts GitHub PR merge time — 76% accuracy | Python, LightGBM, VS Code |
-| [CI Risk Predictor]([https://github.com/svaibhav15656-create/ci-risk-predictor](https://github.com/svaibhav15656-create/ci-risk-predictor.git)) | Predicts CI/CD failure from commit patterns | Python, ML |
-| [Pollution Monitor]([https://github.com/svaibhav15656-create/DBMS-enviromental-_pollution_monitor](https://github.com/svaibhav15656-create/DBMS-enviromental-_pollution_monitor.git)) | Real-time air quality tracking with violation alerts | Java, Spring Boot |
+| [CI Risk Predictor](https://github.com/svaibhav15656-create/ci-risk-predictor) | Predicts CI/CD pipeline failure from commit patterns — real-time VS Code feedback | Python, ML |
+| [PR Review Time Predictor](https://github.com/svaibhav15656-create/pr-review-predictor) | Predicts GitHub PR merge time with 76% accuracy — trained on 1500+ real PRs | Python, LightGBM, REST API |
+| [Pollution Monitor](https://github.com/svaibhav15656-create/DBMS-enviromental-_pollution_monitor) | Real-time air quality tracking with auto violation alerts & severity classification | Java, Spring Boot |
+| [AI Decision Copilot](https://github.com/svaibhav15656-create/ai-decision-copilot) | AI-powered decision support system with prompt engineering workflows | Python, AI |
+| [Smart-Attendance-System](https://github.com/svaibhav15656-create/smart_attendance_system.git) | A full-stack web application that eliminates proxy attendance using multi-layer biometric verification — built for colleges where attendance integrity matters.|
+| [Primetrade-app](https://github.com/svaibhav15656-create/primetrade-app.git) | This is a full-stack web application I built designed for seamless task management.|
 
 ---
 
