@@ -44,15 +44,15 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [Smart Attendance System](https://github.com/svaibhav15656-create) | Anti-proxy attendance with face recognition & JWT auth | Java, face-api.js, REST API |
+| [Smart Attendance System]([https://github.com/svaibhav15656-create](https://github.com/svaibhav15656-create/ai-decision-copilot.git)) | Anti-proxy attendance with face recognition & JWT auth | Java, face-api.js, REST API |
 | [PR Review Time Predictor](https://github.com/svaibhav15656-create) | Predicts GitHub PR merge time — 76% accuracy | Python, LightGBM, VS Code |
-| [CI Risk Predictor](https://github.com/svaibhav15656-create/ci-risk-predictor) | Predicts CI/CD failure from commit patterns | Python, ML |
-| [Pollution Monitor](https://github.com/svaibhav15656-create/DBMS-enviromental-_pollution_monitor) | Real-time air quality tracking with violation alerts | Java, Spring Boot |
+| [CI Risk Predictor]([https://github.com/svaibhav15656-create/ci-risk-predictor](https://github.com/svaibhav15656-create/ci-risk-predictor.git)) | Predicts CI/CD failure from commit patterns | Python, ML |
+| [Pollution Monitor]([https://github.com/svaibhav15656-create/DBMS-enviromental-_pollution_monitor](https://github.com/svaibhav15656-create/DBMS-enviromental-_pollution_monitor.git)) | Real-time air quality tracking with violation alerts | Java, Spring Boot |
 
 ---
 
 ### 🔗 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-vaibhav07)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)]([https://leetcode.com/](https://leetcode.com/u/vaibhav_vvv/))
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:s.vaibhav15656@gmail.com)
