@@ -1,16 +1,58 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Vaibhav</h1>
+<h3 align="center">CS Undergrad @ SRM | Backend Dev | ML Enthusiast</h3>
 
-<!--
-**svaibhav15656-create/svaibhav15656-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 B.Tech CSE @ SRM Institute of Science and Technology (2024–2028)
+- 💻 Currently working as **AI & Data Analytics Intern @ Xylofy AI**
+- 🧠 Solved **170+ problems on LeetCode**
+- 🔭 Building backend systems with **Java & Spring Boot**
+- 🌱 Exploring **Machine Learning** and **MLOps**
+- 📫 Reach me at **s.vaibhav15656@gmail.com**
+
+---
+
+### 🛠️ Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=svaibhav15656-create&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://streak-stats.demolab.com?user=svaibhav15656-create&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=svaibhav15656-create&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| [Smart Attendance System](https://github.com/svaibhav15656-create) | Anti-proxy attendance with face recognition & JWT auth | Java, face-api.js, REST API |
+| [PR Review Time Predictor](https://github.com/svaibhav15656-create) | Predicts GitHub PR merge time — 76% accuracy | Python, LightGBM, VS Code |
+| [CI Risk Predictor](https://github.com/svaibhav15656-create/ci-risk-predictor) | Predicts CI/CD failure from commit patterns | Python, ML |
+| [Pollution Monitor](https://github.com/svaibhav15656-create/DBMS-enviromental-_pollution_monitor) | Real-time air quality tracking with violation alerts | Java, Spring Boot |
+
+---
+
+### 🔗 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-vaibhav07)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:s.vaibhav15656@gmail.com)
