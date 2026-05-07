@@ -45,7 +45,7 @@
 | Project | Description | Tech |
 |--------|-------------|------|
 | [CI Risk Predictor](https://github.com/svaibhav15656-create/ci-risk-predictor) | Predicts CI/CD pipeline failure from commit patterns — real-time VS Code feedback | Python, ML |
-| [PR Review Time Predictor](https://github.com/svaibhav15656-create/pr-review-predictor) | Predicts GitHub PR merge time with 76% accuracy — trained on 1500+ real PRs | Python, LightGBM, REST API |
+| [PR Review Time Predictor](https://github.com/svaibhav15656-create/PR-PREDICTOR-EXTENSION.git) | Predicts GitHub PR merge time with 76% accuracy — trained on 1500+ real PRs | Python, LightGBM, REST API |
 | [Pollution Monitor](https://github.com/svaibhav15656-create/DBMS-enviromental-_pollution_monitor) | Real-time air quality tracking with auto violation alerts & severity classification | Java, Spring Boot |
 | [AI Decision Copilot](https://github.com/svaibhav15656-create/ai-decision-copilot) | AI-powered decision support system with prompt engineering workflows | Python, AI |
 | [Smart-Attendance-System](https://github.com/svaibhav15656-create/smart_attendance_system.git) | A full-stack web application that eliminates proxy attendance using multi-layer biometric verification — built for colleges where attendance integrity matters.|JWT,face-api,Java|
