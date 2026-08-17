@@ -7,7 +7,7 @@
 
 - 🎓 B.Tech CSE @ SRM Institute of Science and Technology (2024–2028)
 - 💻 Currently working as **AI & Data Analytics Intern @ Xylofy AI**
-- 🧠 Solved **210+ problems on LeetCode**
+- 🧠 Solved **250+ problems on LeetCode**
 - 🔭 Building backend systems with **Java & Spring Boot**
 - 🌱 Exploring **Machine Learning** and **MLOps**
 - 📫 Reach me at **s.vaibhav15656@gmail.com**
