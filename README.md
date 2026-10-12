@@ -6,7 +6,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 B.Tech CSE @ SRM Institute of Science and Technology (2024–2028)
-- 💻 Currently working as **AI & Data Analytics Intern @ Xylofy AI**
+- 💻 Currently working as **Software Intern at @HCL Tech**
 - 🧠 Solved **250+ problems on LeetCode**
 - 🔭 Building backend systems with **Java & Spring Boot**
 - 🌱 Exploring **Machine Learning** and **MLOps**
